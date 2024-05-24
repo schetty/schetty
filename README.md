@@ -6,21 +6,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=An agroecology sciences student turned iOS developer++;6plus years of enterprise and startup experience,;SwiftUI💚,;Passionate about Tech4Good,;Clean and efficient code enthusiast,;always learning">
 </p>
 
-
 <br>
 
-
-
 	
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
+## **About me**
 <picture>
-  <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
+  <source media="(max-width: 500px)" srcset="">
+  <img align="right" alt="" src="https://github.com/schetty/schetty/assets/16530138/d9109b8e-3d89-481a-9a72-3232125343a8" width=200px>
 </picture>
 
 <br>
-
 
 - Hi! ~ my name is Naomi and I am an iOS developer passionate about technology for positive impact. I strive for clean and efficient code that's easily maintainable :)
 
@@ -75,25 +70,21 @@
 
 
 
-## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b>
 <div align='left'>
-<ul>
 
-<li>
 <a href="https://www.linkedin.com/in/regenagvocate/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  regenagvocate-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
+<img src="https://img.shields.io/badge/linkedin:regenagvocate-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
 </a>
-</li>
+
 
 <br>
 
-<li>
 <a href="mailto:info@naomischettini.com" target="_blank">
 <img src="https://img.shields.io/badge/  info@naomischettini-%23EA4335.svg?style=for-the-badge&logo=&logoColor=white" t=mail/>
 </a>
-</li>
-	
-</ul>
 </div>
 <br><br><br><br>
-template forked from [0xabdulkhalid](https://github.com/0xabdulkhalid/0xabdulkhalid)
+
+
+markdown template from [0xabdulkhalid](https://github.com/0xabdulkhalid/0xabdulkhalid)
