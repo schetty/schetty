@@ -3,7 +3,7 @@
 <h1 align="center"><b>Hi there, I'm Naomi Schettini </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=An agroecology sciences student turned iOS developer++;6plus years of enterprise and startup experience,;SwiftUI💚,;Passionate about Tech4Good,;Clean and efficient code enthusiast,;always learning">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=100&lines=An+agroecology+sciences+student+turned+iOS+developer+&hearts;++;6plus+years+of+enterprise+and+startup+experience,;SwiftUI💚,;Passionate+about+Tech4Good,;Clean+and+efficient+code+enthusiast,;always+learning">
 </p>
 
 <br>
