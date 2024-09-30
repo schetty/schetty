@@ -21,7 +21,7 @@
 
 - My academic background is in sustainable agriculture (agroecology). I wanted to pursue a career in international development but [an animal feed project in 2015 in Tigray, Ethiopia](https://www.youtube.com/watch?v=iPslZcI7AlM) directed me to the tech industry instead. I couldn't get the trust of the farmer but the farmer's smartphone sure did, and fast.
 
--  I used to design my own websites including blogs, portfolios, tutorial sites, and [message boards](https://web.archive.org/web/20060513201251/http://eccentricmb.com/) when I was a 12, 13, 14 year old just playing with PaintShopPro and AdobePS for teaching myself graphic design on neopets.com.
+-  I used to design my own websites including blogs, portfolios, tutorial sites, and message boards when I was a 12, 13, 14 year old just playing with PaintShopPro and AdobePS for teaching myself graphic design on neopets.com.
 
 - My portfolio on GitHub reflects my dedication to constantly learning and improving as an iOS  developer. I am always seeking to improve myself as a developer and evolve my general philosophy on technology and what we use technology as solutions for.
 
