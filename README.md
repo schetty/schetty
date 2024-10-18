@@ -25,7 +25,7 @@
 
 - My portfolio on GitHub reflects my dedication to constantly learning and improving as an iOS  developer. I am always seeking to improve myself as a developer and evolve my general philosophy on technology and what we use technology as solutions for.
 
-- I'm currently learning about TCA - The Composable Architecture
+- I'm currently learning about TCA - The Composable Architecture.
 
 - I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:info@naomischettini.com">info@naomischettini.com</a>
 
