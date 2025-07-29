@@ -27,7 +27,7 @@
 
 - I'm currently learning about TCA - The Composable Architecture.
 
-- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:info@naomischettini.com">info@naomischettini.com</a>
+- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:naomischettini@gmail.com">naomischettini@gmail.com</a>
 
 - Thank you for visiting my profile, and I look forward to connecting with you!
 
