@@ -80,7 +80,7 @@
 
 <br>
 
-<a href="mailto:info@naomischettini.com" target="_blank">
+<a href="mailto:naomischettini@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/  info@naomischettini-%23EA4335.svg?style=for-the-badge&logo=&logoColor=white" t=mail/>
 </a>
 </div>
